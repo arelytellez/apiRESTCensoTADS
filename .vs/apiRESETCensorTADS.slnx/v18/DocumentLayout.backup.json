@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D536F44F-95BD-4DE6-8BF0-61F13E08E389}|apiRESETCensorTADS\\apiRESETCensorTADS.csproj|c:\\users\\telle\\source\\repos\\apiresetcensortads\\apiresetcensortads\\controllers\\censocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536F44F-95BD-4DE6-8BF0-61F13E08E389}|apiRESETCensorTADS\\apiRESETCensorTADS.csproj|solutionrelative:apiresetcensortads\\controllers\\censocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536F44F-95BD-4DE6-8BF0-61F13E08E389}|apiRESETCensorTADS\\apiRESETCensorTADS.csproj|C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiresetcensortads\\models\\clscenso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536F44F-95BD-4DE6-8BF0-61F13E08E389}|apiRESETCensorTADS\\apiRESETCensorTADS.csproj|solutionrelative:apiresetcensortads\\models\\clscenso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536F44F-95BD-4DE6-8BF0-61F13E08E389}|apiRESETCensorTADS\\apiRESETCensorTADS.csproj|C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiresetcensortads\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536F44F-95BD-4DE6-8BF0-61F13E08E389}|apiRESETCensorTADS\\apiRESETCensorTADS.csproj|solutionrelative:apiresetcensortads\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D536F44F-95BD-4DE6-8BF0-61F13E08E389}|apiRESETCensorTADS\\apiRESETCensorTADS.csproj|C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiresetcensortads\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D536F44F-95BD-4DE6-8BF0-61F13E08E389}|apiRESETCensorTADS\\apiRESETCensorTADS.csproj|solutionrelative:apiresetcensortads\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CensoController.cs",
+              "DocumentMoniker": "C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiRESETCensorTADS\\Controllers\\CensoController.cs",
+              "RelativeDocumentMoniker": "apiRESETCensorTADS\\Controllers\\CensoController.cs",
+              "ToolTip": "C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiRESETCensorTADS\\Controllers\\CensoController.cs",
+              "RelativeToolTip": "apiRESETCensorTADS\\Controllers\\CensoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T20:37:20.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCenso.cs",
+              "DocumentMoniker": "C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiRESETCensorTADS\\Models\\clsCenso.cs",
+              "RelativeDocumentMoniker": "apiRESETCensorTADS\\Models\\clsCenso.cs",
+              "ToolTip": "C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiRESETCensorTADS\\Models\\clsCenso.cs",
+              "RelativeToolTip": "apiRESETCensorTADS\\Models\\clsCenso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T20:35:10.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiRESETCensorTADS\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "apiRESETCensorTADS\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiRESETCensorTADS\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "apiRESETCensorTADS\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T20:32:38.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiRESETCensorTADS\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "apiRESETCensorTADS\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\telle\\source\\repos\\apiRESETCensorTADS\\apiRESETCensorTADS\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "apiRESETCensorTADS\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T20:32:27.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
